@@ -6,8 +6,12 @@ React --> SPA --> Virtual Dom --> change zone detection --> Angular
 --> node -v  > v18  at least 
 
 --> npx vs npm 
+- > Install
 
---> npx create-react-app PROJNAME 
+1-  npx create-react-app PROJNAME  // this way not work 
+2-  npm create vite@latest DayOne -- --template react
+- > to run 
+ - cd ProjName  && npm install && npm run dev
 --> JSX --> javascript XML 
 --> Components: 
         1- Class Compnent: 
@@ -22,3 +26,6 @@ React --> SPA --> Virtual Dom --> change zone detection --> Angular
 
         2- Function Component
             3- props 
+   
+
+   
